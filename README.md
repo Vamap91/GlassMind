@@ -34,3 +34,7 @@ Sem complicação. Sem desculpas. E com muito mais agilidade.
 ```bash
 git clone https://github.com/seu-usuario/mindglass.git
 cd mindglass
+
+## 👨‍💻 Autor 
+Criado por Vinícius Augusto Martins de Araújo Paschoa
+---
