@@ -2,3 +2,4 @@ streamlit
 openai
 yagmail
 python-dotenv
+supabase
