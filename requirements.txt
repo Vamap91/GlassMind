@@ -1,1 +1,4 @@
 streamlit
+openai
+yagmail
+python-dotenv
