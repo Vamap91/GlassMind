@@ -289,7 +289,7 @@ if enviar_final:
 st.divider()
 st.markdown("""
 <div style='text-align: center; color: #666; padding: 2rem;'>
-    <p><strong>MindGlass V2</strong> | Desenvolvido por Vinícius Augusto | Carglass Innovation Lab</p>
+    <p><strong>MindGlass V2</strong> | Desenvolvido por Vinicius Paschoa | Carglass Innovation Lab</p>
     <p>💡 <em>Transformando ideias em realidade desde 2024</em></p>
 </div>
 """, unsafe_allow_html=True)
