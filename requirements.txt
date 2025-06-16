@@ -1,4 +1,44 @@
-streamlit
-openai
-yagmail
-python-dotenv
+# MindGlass V2 - Requirements
+# Core Streamlit
+streamlit>=1.28.0
+
+# AI & ML
+openai>=1.3.0
+
+# Email
+yagmail>=0.15.293
+
+# Data Processing & JSON
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Environment & Config
+python-dotenv>=1.0.0
+
+# Date/Time
+python-dateutil>=2.8.2
+
+# Security & Hashing
+cryptography>=41.0.0
+
+# Text Processing & Regex
+regex>=2023.8.8
+
+# Optional: Database (para futuras versões)
+# sqlite3 (built-in Python)
+# sqlalchemy>=2.0.0
+
+# Optional: Monitoring (para produção)
+# sentry-sdk>=1.32.0
+
+# Development/Testing (comentado para produção)
+# pytest>=7.4.0
+# black>=23.0.0
+# flake8>=6.0.0
+
+# Sistema operacional específico
+# Para Windows: 
+# pywin32>=306 (se necessário para yagmail no Windows)
+
+# Para melhor performance com JSON
+# ujson>=5.8.0 (opcional, mais rápido que json nativo)
