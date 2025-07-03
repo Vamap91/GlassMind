@@ -594,7 +594,7 @@ def enviar_email_estruturado(dados, proposta, json_proposta=None):
     
     # Assunto com pontuação NPS
     categoria_nps = classificar_categoria_nps(pontuacao_nps)
-    assunto = f"🎯 NPS {pontuacao_nps}/100 [{categoria_nps}] - {nome} ({area}) | MindGlass V2"
+    assunto = f"🚀 NOVA PROPOSTA ESTRUTURADA - {nome} ({area}) | MindGlass V2 (Pontuação {pontuacao_nps}/100)"
     
     # Emoji baseado na pontuação
     emoji_nps = "🚀" if pontuacao_nps >= 80 else "📈" if pontuacao_nps >= 60 else "📊" if pontuacao_nps >= 40 else "⚡"
